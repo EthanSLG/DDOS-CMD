@@ -1,2 +1,4 @@
 # DDOS-CMD
- This is just a program for ddos a person with just a cmd 
+ With this program, you can DDOS a person by choosing:
+ - The IP of the victim.
+ - The number of requests sent to the victim.
